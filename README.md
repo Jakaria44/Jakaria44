@@ -1,13 +1,14 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://avatars.githubusercontent.com/Jakaria44" alt="MD Jakaria Hossain" width="200">
 </p>
+-->
 <h1 align="center">MD Jakaria Hossain</h1>
 <p align="center">
   Undergrad Student | Frontend Developer | Tech Enthusiast
 </p>
 
-
 ---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakaria44&label=Profile%20views&color=0e75b6&style=flat" alt="jakaria44" /> </p>
 
 [//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakaria44" alt="jakaria44" /></a> </p>)
@@ -21,6 +22,18 @@ I am MD Jakaria Hossain. I am an undergraduate student at BUET CSE.
 - 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **mdjakaria442020@gmail.com**
+
+### 🌱 My Interests
+
+I'm passionate about:
+
+- Open source contributions
+- Web development
+- Mobile app development
+- Blockchain Technology
+- Machine learning
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -56,26 +69,14 @@ I am MD Jakaria Hossain. I am an undergraduate student at BUET CSE.
 <a href="https://webrtc.org/" target="_blank" rel="noreferrer" > <img src="./assets/webrtc.svg" alt="webrtc" width="40" /> </a>
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakaria44&show_icons=true&locale=en&layout=compact" alt="jakaria44" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakaria44&show_icons=true&locale=en&theme=dark&layout=compact&langs_count=8" alt="jakaria44" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jakaria44&show_icons=true&locale=en" alt="jakaria44" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakaria44&" alt="jakaria44" /></p>
-
-
----
-
-### 🌱 My Interests
-
-I'm passionate about:
-
-- Open source contributions
-- Web development
-- Mobile app development
-- Blockchain Technology
-- Machine learning
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jakaria44&show_icons=true&locale=en&theme=dark" alt="jakaria44" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakaria44&theme=dark" alt="jakaria44" /></p>
 
 
 ---
+
 ### 📫 Let's Connect
 
 Feel free to reach out to me through [LinkedIn](https://www.facebook.com/jakaria.hossain.359126) or [Twitter](https://twitter.com/Jakaria1A). I'm always excited to connect with fellow developers and tech enthusiasts.
