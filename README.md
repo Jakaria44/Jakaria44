@@ -13,12 +13,12 @@
 [//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakaria44" alt="jakaria44" /></a> </p>)
 ### Hi there 👋
 
-I am MD Jakaria Hossain. I am an undergraduate student at BUET CSE.
+I am MD Jakaria Hossain. I am an undergraduate student at CSE, BUET.
 
 
 [//]: # (- 🔭 I’m currently working on [MedCare]&#40;https://github.com/Jakaria44/MedCare&#41;)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **mdjakaria442020@gmail.com**
 
