@@ -18,7 +18,7 @@ I am MD Jakaria Hossain. I am an undergraduate student at CSE, BUET.
 
 [//]: # (- 🔭 I’m currently working on [MedCare]&#40;https://github.com/Jakaria44/MedCare&#41;)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React-Native**
 
 - 📫 How to reach me **mdjakaria442020@gmail.com**
 
