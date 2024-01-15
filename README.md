@@ -4,7 +4,7 @@
 -->
 <h1 align="center">MD Jakaria Hossain</h1>
 <p align="center">
-  Undergrad Student | Frontend Developer | Tech Enthusiast
+  Undergrad Student | Full Stack Developer | Tech Enthusiast
 </p>
 
 
@@ -18,8 +18,7 @@ I am MD Jakaria Hossain. I am an undergraduate student at CSE, BUET.
 
 [//]: # (- 🔭 I’m currently working on [MedCare]&#40;https://github.com/Jakaria44/MedCare&#41;)
 
-- 🌱 I’m currently learning **React-Native**
-
+- 🌱 I’m currently working on a **Simulation Project**
 - 📫 How to reach me **mdjakaria442020@gmail.com**
 
 ### 🌱 My Interests
@@ -30,7 +29,6 @@ I'm passionate about:
 - Web development
 - Mobile app development
 - Blockchain Technology
-- Machine learning
 
 ---
 
@@ -70,6 +68,9 @@ I'm passionate about:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 20px;" />
   </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" style="margin-right: 20px;" />
+  </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 20px;" />
   </a>
@@ -93,8 +94,17 @@ I'm passionate about:
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 20px;" />
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" style="margin-right: 20px;" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" alt="tailwind" width="40" height="40" style="margin-right: 20px;" />
+  </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="mui" width="40" height="40" style="margin-right: 20px;" />
+  </a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg" alt="threejs" width="40" height="40" style="margin-right: 20px;" />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 20px;" />
