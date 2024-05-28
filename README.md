@@ -1,138 +1,34 @@
-<!-- <p align="center">
-  <img src="https://avatars.githubusercontent.com/Jakaria44" alt="MD Jakaria Hossain" width="200">
-</p>
--->
-<h1 align="center">MD Jakaria Hossain</h1>
-<p align="center">
-  Undergrad Student | Full Stack Developer | Tech Enthusiast
-</p>
+<br />
+<img src="https://i.imgur.com/68mbMBg.gif" align="left" width="300" alt="ful1e5 with halo"/>
 
+# Hi, I'm Jakaria Hossain 🙋‍♂
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakaria44&label=Profile%20views&color=0e75b6&style=flat" alt="jakaria44" /> </p>
+<h3 align="left">A passionate Frontend Developer from Bangladesh</h3>
 
-[//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakaria44" alt="jakaria44" /></a> </p>)
-### Hi there 👋
+👉 JavaScript is the first choice for me while coding </br>
+👉 I also do code in C, C++, Java </br>
+👉 I do love to work on enterprise projects ⚒ </br>
 
-I am MD Jakaria Hossain. I am an undergraduate student at CSE, BUET.
-
-
-[//]: # (- 🔭 I’m currently working on [MedCare]&#40;https://github.com/Jakaria44/MedCare&#41;)
-
-- 🌱 I’m currently working on a **Simulation Project**
-- 📫 How to reach me **mdjakaria442020@gmail.com**
-
-### 🌱 My Interests
-
-I'm passionate about:
-
-- Open source contributions
-- Web development
-- Mobile app development
-- Blockchain Technology
+🌱 I’m currently working on a **Physics Simulation Software**
+<br/>
+<br/>
+📧 Email me : 2005026@ugrad.cse.buet.ac.bd
+</br>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/jakaria1a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jakaria1a" height="30" width="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://linkedin.com/in/md-jakaria-hossain-19b068296" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-jakaria-hossain-19b068296" height="30" width="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://facebook.com/jakaria.hossain.359126" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakaria.hossain.359126" height="30" width="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.youtube.com/@jakariahossain1a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jakariahossain1a" height="30" width="40" style="margin-right: 20px;" />
-  </a>
-</p>
+### 🏆 Github Stats
 
-<h3 align="left">Languages:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 20px;" />
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 20px;" />
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 20px;" />
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 20px;" />
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 20px;" />
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 20px;" />
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" style="margin-right: 20px;" />
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 20px;" />
-  </a>
+  <img  src="https://github-readme-stats.vercel.app/api?username=Jakaria44&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jakaria44&theme=dark&show_icons=true&hide_border=true" width="48%" >
 
-[//]: # (  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">)
-
-[//]: # (    <img src="./assets/solidity.svg" alt="solidity" width="40" style="margin-right: 20px;" />)
-
-[//]: # (  </a>)
-</p>
-
-
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" alt="tailwind" width="40" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="mui" width="40" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg" alt="threejs" width="40" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://webrtc.org/" target="_blank" rel="noreferrer">
-    <img src="./assets/webrtc.svg" alt="webrtc" width="40" style="margin-right: 20px;" />
-  </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakaria44&show_icons=true&locale=en&theme=dark&layout=compact&langs_count=8" alt="jakaria44" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jakaria44&show_icons=true&locale=en&theme=dark" alt="jakaria44" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakaria44&theme=dark" alt="jakaria44" /></p>
-
+  <p align="center">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jakaria44&theme=dark&show_icons=true&hide_border=true&layout=compact" width="48%"/>
+  </p>
 
 ---
+
+![Metrics](https://metrics.lecoq.io/jakaria44?template=classic&achievements=1&repositories=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&repositories=false&repositories.pinned=2&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka)
 
 ### 📫 Let's Connect
 
@@ -147,4 +43,3 @@ Explore my GitHub repositories to see some of my projects and contributions. If 
 Thanks for visiting my GitHub profile. If you have any questions or want to collaborate on a project, feel free to reach out. Let's build something amazing together! 😄
 
 ---
-
