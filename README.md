@@ -15,6 +15,8 @@
 📧 Email me : 2005026@ugrad.cse.buet.ac.bd
 </br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakaria44&label=Profile%20views&color=0e75b6&style=flat" alt="jakaria44" /> </p>
+
 ---
 
 ### 🏆 Github Stats
