@@ -1,5 +1,5 @@
 <br />
-<img src="https://i.imgur.com/68mbMBg.gif" align="left" width="300" alt="ful1e5 with halo"/>
+
 
 # Hi, I'm Jakaria Hossain 🙋‍♂
 
