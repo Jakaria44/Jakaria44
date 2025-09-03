@@ -3,13 +3,12 @@
 
 # Hi, I'm Jakaria Hossain 🙋‍♂
 
-<h3 align="left">A passionate Frontend Developer from Bangladesh</h3>
+<h3 align="left">A passionate Full Stack Developer from Bangladesh</h3>
 
 👉 Java is the first choice for me while coding </br>
 👉 I also do code in C, C++, JavaScript, Python </br>
 👉 I do love to work on enterprise projects ⚒ </br>
 
-🌱 I’m currently working on a **Full Stack Web App Using Nextjs 15 and React 19**
 <br/>
 <br/>
 📧 Email me : 2005026@ugrad.cse.buet.ac.bd
